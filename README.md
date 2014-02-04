@@ -24,4 +24,4 @@ Sample Resolved Alert Message:
 RESOLVED: High traffic generated an alert - hits = 2002, triggered at 2012-09-15 19:40:07
 
 Simple shell script to test the alert
-for i in {1..1000}; do curl localhost/test1/test2; done
+`for i in {1..1000}; do curl localhost/test1/test2; done`
